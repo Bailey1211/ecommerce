@@ -1,0 +1,14 @@
+{
+    "name": "bailey/ecommerce",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    },
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Bailey1211",
+            "email": "bailey.ouadjed12@gmail.com"
+        }
+    ]
+}
